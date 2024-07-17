@@ -74,7 +74,7 @@ const MobileNav = () => {
               </section>
             </SheetClose>
           </div>
-          <SheetHeader>
+          <SheetHeader className="hidden">
             <SheetTitle></SheetTitle>
             <SheetDescription></SheetDescription>
           </SheetHeader>
